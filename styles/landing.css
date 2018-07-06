@@ -51,10 +51,11 @@ body.landing {
     font-size: 1.25rem;
 }
 
-.ion-music-note,
+.ion-wifi,
+.ion-compass,
 .ion-play,
 .ion-radio-waves,
-.ion-iphone {
-    color: rgb(233,50,117);
+.ion-leaf {
+    color: rgb(20, 49, 9);
     font-size: 5rem;
 }
