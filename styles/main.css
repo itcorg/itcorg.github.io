@@ -19,7 +19,7 @@ body {
     position: relative;
     padding: 0.5rem;
     /* #1 */
-    background-color: #ecf39e;
+    background-color: rgba(236, 243, 158, 0.5);
     /* #2 */
     z-index: 1;
 }
