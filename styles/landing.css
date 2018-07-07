@@ -2,13 +2,6 @@ body.landing {
     background-color: rgba(247, 247, 247, 0.5);
 }
 
-hr.landing {
-  border: 0;
-  background-color: #ffffff;
-  height: 3px;
-  cursor: pointer;
-}
-
 .hero-content {
     position: relative;
     min-height: 600px;
@@ -34,9 +27,8 @@ hr.landing {
 }
 
 .hero-content .hero-title .hero-sub {
-    position: relative;
-    font-size: 1rem;
-    font-weight: 200;
+    font-size: .5rem;
+    font-weight: 100;
 }
 
 .selling-points {
@@ -65,8 +57,9 @@ hr.landing {
     color: rgb(20, 49, 9);
 }
 
-.point .point-title .point-description {
+.point .point-description {
   font-size: .8rem;
+  color: rgb(20, 49, 9);
 }
 
 .ion-book,
