@@ -27,6 +27,7 @@ body.landing {
 }
 
 .hero-content .hero-title .hero-sub {
+    position: relative;
     font-size: .5rem;
     font-weight: 100;
 }
@@ -62,10 +63,8 @@ body.landing {
   color: rgb(20, 49, 9);
 }
 
-.ion-book,
+.ion-bonfire,
 .ion-compass,
-.ion-play,
-.ion-radio-waves,
 .ion-leaf {
     color: rgb(20, 49, 9);
     font-size: 6.3rem;
